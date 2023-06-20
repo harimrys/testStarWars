@@ -14,7 +14,6 @@ if respuesta in respuesta_correcta1:
 elif respuesta not in respuesta_correcta1: #Se puede abreviar haciendo solo un else y no elif
     print("\U0001F97A Oh, la respuesta correcta era Tatooine")
 
-
 print() #Para separar las preguntas
 
 #Segunda pregunta
