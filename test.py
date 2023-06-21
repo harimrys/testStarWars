@@ -153,7 +153,7 @@ else:
 print()
 
 #Decima pregunta
-print("10. En que plantea se exilia Yoda?")
+print("10. En que planeta se exilia Yoda?")
 print("- Bespin")
 print("- Tatooine")
 print("- Dagobah")
